@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<title>Riwin | Muy pronto</title>
 	<meta charset="UTF-8">
@@ -46,7 +46,7 @@
 
 			<div class="wsize1 m-lr-auto">
 				<p class="txt-center l1-txt1 p-b-60">
-					Nuestro sitio estará<span class="l1-txt2">Disponible muy pronto</span>, suscribete y se beneficiario de increibles premios!
+					<span class="l1-txt2">Disponible muy pronto</span>, suscribete
 				</p>
 
 				<form class="w-full flex-w flex-c-m validate-form">
